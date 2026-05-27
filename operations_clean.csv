@@ -1,0 +1,74 @@
+service,date_facture,description,beneficiaire,montant_ht,tva,ca,montant_ttc,annee,mois,trimestre,categorie_depense,operation_id
+fourniture bureau,2026-01-03,achat perforateur,hs solutions,5000.0,,,5000.0,2026,1,1,administratif,1
+fourniture bureau,2026-01-06,achat amoire réception,ags electro,75000.0,,,75000.0,2026,1,1,administratif,2
+fourniture bureau,2026-01-06,achat chaise,avenir plus,32000.0,,,32000.0,2026,1,1,administratif,3
+fourniture bureau,2026-01-06,achat tirroir,ets yc,30000.0,,,30000.0,2026,1,1,administratif,4
+internet,2026-01-06,abonnement mois de janvier,congo telecom,12615.64,2270.8152,113.54076,14999.99596,2026,1,1,internet,5
+fourniture bureau,2026-01-06,achat eau et poubelle,prince ngoma,4600.0,,,4600.0,2026,1,1,administratif,6
+loyer,2026-01-07,loyer du mois de décembre,ockoumou bettina,250000.0,,,250000.0,2026,1,1,logement,7
+fourniture bureau,2026-01-07,achat fournitures de bureau,buroshop,72500.0,,,72500.0,2026,1,1,administratif,8
+transport,2026-01-07,frais de transport,prince ngoma,22000.0,,,22000.0,2026,1,1,divers,9
+fourniture bureau,2026-01-12,achat fournitures de bureau,prince ngoma,40900.0,,,40900.0,2026,1,1,administratif,10
+transport,2026-01-12,frais de transport,prince ngoma,18000.0,,,18000.0,2026,1,1,divers,11
+fourniture bureau,2026-01-12,sponsoring page,prince ngoma,10000.0,,,10000.0,2026,1,1,administratif,12
+fourniture bureau,2026-01-13,achat fournitures de bureau,burotec,10600.0,1908.0,95.4,12603.4,2026,1,1,administratif,13
+fourniture bureau,2026-01-13,achat fournitures de bureau,jakane,16000.0,,,16000.0,2026,1,1,administratif,14
+fourniture bureau,2026-01-13,achat fournitures de bureau,franprix,17662.0,3179.16,158.958,21000.118,2026,1,1,administratif,15
+autres achats,2026-01-15,achat buffet,eden events,12000.0,,,12000.0,2026,1,1,divers,16
+fourniture bureau,2026-01-16,achat fournitures de bureau,hs solutions,11400.0,,,11400.0,2026,1,1,administratif,17
+autres achats,2026-01-16,achat carburant,totalenergies,10000.0,,,10000.0,2026,1,1,divers,18
+fourniture bureau,2026-01-19,achat cadenas,ets ba,3000.0,,,3000.0,2026,1,1,administratif,19
+fourniture bureau,2026-01-19,bonbonne d'eau,grand cherif,7500.0,,,7500.0,2026,1,1,administratif,20
+transport,2026-01-19,frais de transport,prince ngoma,16000.0,,,16000.0,2026,1,1,divers,21
+communication,2026-01-22,frais de comm mois de février,airtel congo,16819.0,3027.42,151.371,19997.791,2026,1,1,administratif,22
+communication,2026-01-23,sponsoring page,prince ngoma,25000.0,,,25000.0,2026,1,1,administratif,23
+fourniture bureau,2026-01-26,achat d'eau,prince ngoma,6000.0,,,6000.0,2026,1,1,administratif,24
+travaux maintenance,2026-01-28,frais de shipping matériels,petit kouma,23100.0,,,23100.0,2026,1,1,maintenance,25
+transport,2026-01-28,frais de transport pour le retrait du colis,prince ngoma,12000.0,,,12000.0,2026,1,1,divers,26
+transport,2026-02-02,frais de transport,prince ngoma,16000.0,,,16000.0,2026,2,1,divers,27
+travaux maintenance,2026-02-02,frais shipping du traceur transport et manutention,imbiella cety,375000.0,,,375000.0,2026,2,1,maintenance,28
+travaux maintenance,2026-02-03,ration pour installation traceur,prince ngoma,5925.0,,,5925.0,2026,2,1,maintenance,29
+internet,2026-02-05,abonnement mois de févier,congo telecom,12615.64,2270.8152,113.54076,14999.99596,2026,2,1,internet,30
+communication,2026-02-05,versement carte prepayé,ecobank,25000.0,,,25000.0,2026,2,1,administratif,31
+travaux maintenance,2026-02-05,acompte traceur,prince ngoma,100000.0,,,100000.0,2026,2,1,maintenance,32
+charges personnel,2026-02-06,paie du mois de janvier,jessy bounda,168500.0,,,168500.0,2026,2,1,divers,33
+travaux maintenance,2026-02-06,manutention et transport traceur,ongoto christopher,25000.0,,,25000.0,2026,2,1,maintenance,34
+autres achats,2026-02-07,achat repas,franxprix,4925.0,,,4925.0,2026,2,1,divers,35
+autres achats,2026-02-07,achat jus,franxprix,1000.0,,,1000.0,2026,2,1,divers,36
+autres achats,2026-02-07,achat bloc notes,burotec,1950.0,,,1950.0,2026,2,1,divers,37
+fourniture bureau,2026-02-07,achat bache,ets bathily,45000.0,,,45000.0,2026,2,1,administratif,38
+loyer,2026-02-10,loyer du mois de janvier,ockoumou bettina,250000.0,,,250000.0,2026,2,1,logement,39
+charges personnel,2026-02-11,frais de prestation janvier,ngoma tecia,40000.0,,,40000.0,2026,2,1,divers,40
+fourniture bureau,2026-02-16,achat fourniture,ets ang,4000.0,,,4000.0,2026,2,1,administratif,41
+fourniture bureau,2026-02-16,achat fournitures impression,ets bathily,18000.0,,,18000.0,2026,2,1,administratif,42
+fourniture bureau,2026-02-16,achat casquette,carrefour sape,1000.0,,,1000.0,2026,2,1,administratif,43
+fourniture bureau,2026-02-17,achat tee shirt,ets bdf,9000.0,,,9000.0,2026,2,1,administratif,44
+fourniture bureau,2026-02-17,achat d'eau,franxprix,5400.0,,,5400.0,2026,2,1,administratif,45
+fourniture bureau,2026-02-17,achat agenda,regal,10400.0,,,10400.0,2026,2,1,administratif,46
+electricité,2026-02-19,abonnement electricité jan-février,e2c,35235.0,6342.3,317.115,42894.415,2026,2,1,electricite,47
+fourniture bureau,2026-02-20,achat tee shirt,ets bdf,3000.0,,,3000.0,2026,2,1,administratif,48
+fourniture bureau,2026-02-20,achat fournitures impression,ets bathily,4200.0,,,4200.0,2026,2,1,administratif,49
+fourniture bureau,2026-02-20,achat fournitures impression,ets bathily,7800.0,,,7800.0,2026,2,1,administratif,50
+fourniture bureau,2026-02-21,achat casquettes,carrefour sape,3000.0,,,3000.0,2026,2,1,administratif,51
+fourniture bureau,2026-02-21,achat deux tapis souris,ets bathily,1000.0,,,1000.0,2026,2,1,administratif,52
+communication,2026-02-21,sponsoring page yara,prince ngoma,10000.0,,,10000.0,2026,2,1,administratif,53
+transport,2026-02-21,frais de transport,prince ngoma,15000.0,,,15000.0,2026,2,1,divers,54
+transport,2026-02-23,frais de transport,prince ngoma,11000.0,,,11000.0,2026,2,1,divers,55
+fourniture bureau,2026-02-26,achat chargeur,ets db,15000.0,,,15000.0,2026,2,1,administratif,56
+fourniture bureau,2026-02-27,achat papier,ets yoro,5500.0,,,5500.0,2026,2,1,administratif,57
+fourniture bureau,2026-02-27,achat papier,ets bathily,3500.0,,,3500.0,2026,2,1,administratif,58
+transport,2026-03-02,frais de tranport,jessy bounda,10000.0,,,10000.0,2026,3,1,divers,59
+fourniture bureau,2026-03-05,achat élévateur,ets yc,60000.0,,,60000.0,2026,3,1,administratif,60
+communication,2026-03-09,versement sur la carte ecobank,ecobank,30000.0,,,30000.0,2026,3,1,administratif,61
+transport,2026-03-09,frais de tranport course administrative,jessy bounda,2000.0,,,2000.0,2026,3,1,divers,62
+travaux,2026-03-10,frais de reparation du groupe,electricien,12500.0,,,12500.0,2026,3,1,maintenance,63
+fourniture bureau,2026-03-11,achat d'eau,goma tecia,6000.0,,,6000.0,2026,3,1,administratif,64
+charges personnel,2026-03-11,paie de salaire fevrier,jessy bounda,180000.0,,,180000.0,2026,3,1,divers,65
+loyer,2026-03-11,loyer fevrier,ockoumou bettina,250000.0,,,250000.0,2026,3,1,logement,66
+transport,2026-03-11,frais de tranport depot de d'offre de services,jessy bounda,2000.0,,,2000.0,2026,3,1,divers,67
+internet,2026-03-12,abonnement mois de mars,congo telecom,12615.64,2270.8152,113.54076,14999.99596,2026,3,1,internet,68
+prestataire,2026-03-13,frais de prestation février,goma tecia,40000.0,,,40000.0,2026,3,1,prestations,69
+transport,2026-03-17,frais de tranport pour utppe,jessy bounda,2000.0,,,2000.0,2026,3,1,divers,70
+travaux,2026-03-20,frais de maintenance installation logiciels,désir koussafoula,90000.0,,,90000.0,2026,3,1,maintenance,71
+travaux,2026-03-20,frais de tranport pour l'agent e2c,e2c,5000.0,,,5000.0,2026,3,1,maintenance,72
+fourniture bureau,2026-03-27,achat  bobonnes d'eau,goma tecia,6000.0,,,6000.0,2026,3,1,administratif,73
