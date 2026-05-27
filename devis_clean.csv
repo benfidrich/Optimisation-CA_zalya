@@ -1,0 +1,29 @@
+reference_commande,date_creation,client,vendeur,activite,montant,statut,annee,mois,trimestre,type_transaction,conversion,transaction_id
+S00027,2026-03-27 14:11:04,gracia ikouadja,prince ngoma,,19619,commande client,2026,3,1,commande client,True,1
+S00028,2026-03-27 17:01:05,paola mapaga,prince ngoma,,20214,commande client,2026,3,1,commande client,True,2
+S00022,2026-03-12 14:33:23,"particulier, desmon esperith kibinda",prince ngoma,,314847,commande client,2026,3,1,commande client,True,3
+S00026,2026-03-26 15:07:33,zeus lounge bar,prince ngoma,,104038,devis,2026,3,1,devis,False,4
+S00025,2026-03-13 10:41:07,zeus lounge bar,prince ngoma,,951200,devis,2026,3,1,devis,False,5
+S00024,2026-03-13 08:44:56,melki,prince ngoma,,220500,devis,2026,3,1,devis,False,6
+S00023,2026-03-12 15:40:16,zeus lounge bar,prince ngoma,,0,devis,2026,3,1,devis,False,7
+S00021,2026-03-10 13:29:24,"sl production, mr caustodel",prince ngoma,,14862500,devis,2026,3,1,devis,False,8
+S00020,2026-03-04 14:05:32,doxa consulting,prince ngoma,,238900,devis,2026,3,1,devis,False,9
+S00019,2026-03-02 14:59:43,prince koubaka,prince ngoma,,5992,commande client,2026,3,1,commande client,True,10
+S00018,2026-02-27 11:06:52,"kwiza beach pnr, rovick massala",prince ngoma,,1486,commande client,2026,2,1,commande client,True,11
+S00011,2026-02-06 14:37:13,kwiza beach pnr,prince ngoma,,19024,commande client,2026,2,1,commande client,True,12
+S00017,2026-02-21 12:18:50,"kwiza beach pnr, rovick massala",prince ngoma,,11058,commande client,2026,2,1,commande client,True,13
+S00009,2026-02-02 13:13:02,gracia ikouadja,prince ngoma,,28536,commande client,2026,2,1,commande client,True,14
+S00010,2026-02-05 17:48:29,"avenir plus, moussa yara",prince ngoma,,50001,commande client,2026,2,1,commande client,True,15
+S00016,2026-02-17 16:02:45,management organisationnel,prince ngoma,,53505,devis,2026,2,1,devis,False,16
+S00015,2026-02-13 20:05:12,mr boukaka,prince ngoma,,15159750,devis,2026,2,1,devis,False,17
+S00014,2026-02-11 16:56:46,sl production,prince ngoma,,298350,devis,2026,2,1,devis,False,18
+S00013,2026-02-11 16:03:14,ets kgf,prince ngoma,,288901,devis,2026,2,1,devis,False,19
+S00012,2026-02-11 15:04:32,ndt tech solutions,prince ngoma,,298350,devis,2026,2,1,devis,False,20
+S00008,2026-01-17 00:10:21,emeraude sante assurances et reassurances congo,prince ngoma,,25682400,devis,2026,1,1,devis,False,21
+S00007,2026-01-16 10:18:01,moussa yara,prince ngoma,,50001,commande client,2026,1,1,commande client,True,22
+S00006,2026-01-06 19:28:37,centre médical la colombe,prince ngoma,,175824,commande client,2026,1,1,commande client,True,23
+S00005,2025-12-02 19:33:23,desmon kibinda,prince ngoma,,374535,commande client,2025,12,4,commande client,True,24
+S00004,2025-11-21 21:25:22,willis towers watson,prince ngoma,,190240,commande client,2025,11,4,commande client,True,25
+S00003,2025-11-03 15:40:11,willis towers watson,prince ngoma,,35373,commande client,2025,11,4,commande client,True,26
+S00002,2025-11-03 15:32:04,willis towers watson,prince ngoma,,29725,commande client,2025,11,4,commande client,True,27
+S00001,2025-10-19 00:37:54,willis towers watson,prince ngoma,,29725,commande client,2025,10,4,commande client,True,28

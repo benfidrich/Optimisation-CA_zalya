@@ -1,0 +1,11 @@
+nom_service,service_id,categorie,actif,prix_reference,cout_estime,marge_estimee
+conception web,1,digital,True,0,0,0
+développement plateformes ou logiciels,2,digital,True,0,0,0
+communication,3,marketing,True,0,0,0
+imprimerie,4,print_media,True,0,0,0
+importation,5,logistique,True,0,0,0
+gestion et vente des biens,6,commerce,True,0,0,0
+"prestations industrielles ( climatisation et froid, maintenance industrielle, peinture,l'électricité)",7,industrie,True,0,0,0
+mise à disposition du personnel,8,rh,True,0,0,0
+gestion de sécurité,9,securite,True,0,0,0
+formation présentiel et en ligne,10,formation,True,0,0,0

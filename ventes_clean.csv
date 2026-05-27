@@ -1,0 +1,17 @@
+service,Date_facture,Date_echeance,Num_facture,client,montant_ht,tva,ca,montant_ttc,Date_paiement,Mode_paiement,statut,annee,mois,jour,vente_id
+communication,2026-01-16,2026-01-16,INV/2026/00008,moussa yara,42053,7569.54,378.477,50001.017,2026-01-16,Espèces,payé,2026.0,1.0,16.0,1
+communication,2026-02-05,2026-02-05,Vide,moussa yara,42053,7569.54,378.477,50001.017,2026-02-05,Espèces,payé,2026.0,2.0,5.0,2
+communication,2026-03-25,2026-03-25,INV/2026/00015,moussa yara,42053,7569.54,378.477,50001.017,2026-03-25,Espèces,payé,2026.0,3.0,25.0,3
+importation,2026-01-09,2026-01-09,INV/2026/00005,desmon esperith kibinda,315000,56700.0,2835.0,374535.0,2026-01-09,Espèces,payé,2026.0,1.0,9.0,4
+importation,2026-03-12,2026-03-12,INV/2026/00014,desmon esperith kibinda,264800,47664.0,2383.2,314847.2,2026-03-12,Espèces,payé,2026.0,3.0,12.0,5
+imprimerie,2026-01-09,2026-01-09,INV/2026/00007,centre mdical la colombe,63771,11478.78,573.939,75823.719,2026-01-09,Espèces,payé,2026.0,1.0,9.0,6
+imprimerie,2026-01-09,2026-01-09,INV/2026/00006,centre mdical la colombe,84104,15138.72,756.936,99999.656,2026-01-16,Espèces,payé,2026.0,1.0,16.0,7
+imprimerie,2026-01-09,2026-01-09,INV/2026/00004,willis towers watson,160000,28800.0,1440.0,190240.0,2026-02-11,Chèque,payé,2026.0,2.0,11.0,8
+imprimerie,2026-01-09,2026-01-09,INV/2026/00003,willis towers watson,29750,5355.0,267.75,35372.75,,Vide,non payé,,,,9
+imprimerie,2026-01-09,2026-01-09,INV/2026/00002,willis towers watson,25000,4500.0,225.0,29725.0,2026-02-11,Chèque,payé,2026.0,2.0,11.0,10
+imprimerie,2026-01-09,2026-01-09,INV/2026/00001,willis towers watson,25000,4500.0,225.0,29725.0,2026-02-11,Chèque,payé,2026.0,2.0,11.0,11
+imprimerie,2026-02-19,2026-02-19,INV/2026/00009,gracia ikouadja,24000,4320.0,216.0,28536.0,2026-02-19,Espèces,payé,2026.0,2.0,19.0,12
+imprimerie,2026-02-21,2026-02-21,INV/2026/00010,kwiza beach,9300,1674.0,83.7,11057.7,2026-02-21,Espèces,payé,2026.0,2.0,21.0,13
+imprimerie,2026-02-27,2026-02-27,INV/2026/00011,kwiza beach,16000,2880.0,144.0,19024.0,2026-02-27,Espèces,payé,2026.0,2.0,27.0,14
+imprimerie,2026-02-27,2026-02-27,INV/2026/00012,kwiza beach,1250,225.0,11.25,1486.25,2026-02-27,Espèces,payé,2026.0,2.0,27.0,15
+imprimerie,2026-03-02,2026-03-02,INV/2026/00013,prince koubaka,5040,907.2,45.36,5992.56,2026-03-02,Espèces,payé,2026.0,3.0,2.0,16
